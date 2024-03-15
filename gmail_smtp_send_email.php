@@ -10,7 +10,7 @@ require 'vendor/autoload.php'; // Load Composer's autoloader
 
 $mail = new PHPMailer(true);
 try {
-    //Server settings
+    // Server settings
     $mail->isSMTP();                                      // Send using SMTP
     $mail->Host = 'smtp.gmail.com';                       // Set the SMTP server
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
@@ -19,7 +19,7 @@ try {
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;   // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` also accepted
     $mail->Port = 587;                                    // TCP port to connect to
 
-    //Recipients
+    // Recipients
     $mail->setFrom('your_email@gmail.com', 'Mailer');
     $mail->addAddress('recipient_email@example.com', 'Recipient Name');     // Add a recipient
 
