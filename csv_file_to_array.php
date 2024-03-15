@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * Useful Links:
+ * - GitHub Repository: https://github.com/SergiuPogor/TurboLearnPHP
+ * - YouTube Video: https://www.youtube.com/shorts/67F0XZGoU6o
+ */
+
 $filename = 'input.csv';
 
 if (!file_exists($filename) || !is_readable($filename)) {

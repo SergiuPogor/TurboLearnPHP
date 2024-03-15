@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * Useful Links:
+ * - GitHub Repository: https://github.com/SergiuPogor/TurboLearnPHP
+ * - YouTube Video: https://www.youtube.com/shorts/qbPP6xTN-Os
+ */
+
 $data = [
     'name' => 'Mike Smith',
     'contacts' => [
