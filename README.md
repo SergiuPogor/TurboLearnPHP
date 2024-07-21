@@ -1,8 +1,12 @@
 # 🌟 TurboLearnPHP | PHP Code Examples Repository 📹
 
-Welcome to the PHP Code Examples Repository! This repository is designed to complement my YouTube channel, where I provide in-depth tutorials on various PHP programming topics. Here, you'll find the code examples demonstrated in each video, helping you to learn and practice PHP effectively.
+![TurboLearnPHP](https://yt3.googleusercontent.com/yQDSuJo06rdAn1nWROl2hzs1o3vH5pM8GHtKnZiLKS2en5js_koLhsrhu36K0dZcYqPO1gbuGw4=s160-c-k-c0x00ffffff-no-rj)
 
-![PHP Logo](https://www.php.net/images/logos/php-logo.svg)
+Welcome to the [TurboLearnPHP](https://github.com/SergiuPogor/TurboLearnPHP) PHP Code Examples Repository! 
+
+This repository is designed to complement my YouTube channel, where I provide in-depth tutorials on various PHP programming topics. 
+Here, you'll find the code examples demonstrated in each video, helping you to learn and practice PHP effectively.
+
 
 ## 📖 Table of Contents
 - [🌟 Introduction](#-introduction)
