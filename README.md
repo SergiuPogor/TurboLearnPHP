@@ -22,7 +22,7 @@ Here, you'll find the code examples demonstrated in each video, helping you to l
 ## 🌟 Introduction
 
 Welcome! This repository contains PHP code examples that accompany the tutorials on
-my [TurboLearnPHP](https://www.youtube.com/@TurboLearnPHP). Each example is designed to help you understand and master
+my [@TurboLearnPHP](https://www.youtube.com/@TurboLearnPHP). Each example is designed to help you understand and master
 PHP programming concepts through practical demonstration.
 
 ## 🌐 About PHP
@@ -42,7 +42,7 @@ For more information about PHP, visit the [official PHP website](https://www.php
 
 ## 💻 How to Use This Repository
 
-1. **Watch the YouTube Videos:** Start by visiting my [TurboLearnPHP](https://www.youtube.com/@TurboLearnPHP) and
+1. **Watch the YouTube Videos:** Start by visiting my [@TurboLearnPHP](https://www.youtube.com/@TurboLearnPHP) and
    watching the tutorials.
 2. **Access the Code Examples:** Each video description contains a link to the corresponding code example in this
    repository.
