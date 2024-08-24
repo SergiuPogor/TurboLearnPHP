@@ -1,0 +1,9 @@
+lcg_value
+mt_srand
+srand
+rand
+mt_rand
+mt_getrandmax
+getrandmax
+random_bytes
+random_int

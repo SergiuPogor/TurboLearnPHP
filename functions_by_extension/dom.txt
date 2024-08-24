@@ -1,0 +1,2 @@
+dom_import_simplexml
+Dom\import_simplexml

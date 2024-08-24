@@ -1,0 +1,10 @@
+iconv_strlen
+iconv_substr
+iconv_strpos
+iconv_strrpos
+iconv_mime_encode
+iconv_mime_decode
+iconv_mime_decode_headers
+iconv
+iconv_set_encoding
+iconv_get_encoding

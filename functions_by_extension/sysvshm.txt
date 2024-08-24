@@ -1,0 +1,7 @@
+shm_attach
+shm_detach
+shm_has_var
+shm_remove
+shm_put_var
+shm_get_var
+shm_remove_var

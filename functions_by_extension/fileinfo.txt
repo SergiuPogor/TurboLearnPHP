@@ -1,0 +1,6 @@
+finfo_open
+finfo_close
+finfo_set_flags
+finfo_file
+finfo_buffer
+mime_content_type

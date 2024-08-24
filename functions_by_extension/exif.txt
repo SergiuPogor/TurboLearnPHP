@@ -1,0 +1,4 @@
+exif_tagname
+exif_read_data
+exif_thumbnail
+exif_imagetype

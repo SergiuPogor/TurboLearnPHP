@@ -1,0 +1,11 @@
+preg_match
+preg_match_all
+preg_replace
+preg_filter
+preg_replace_callback
+preg_replace_callback_array
+preg_split
+preg_quote
+preg_grep
+preg_last_error
+preg_last_error_msg
