@@ -1,7 +1,12 @@
 {
-    "require": {
-        "phpmailer/phpmailer": "^6.9",
-      "ext-zip": "*",
-      "ext-exif": "*"
-    }
+  "require": {
+    "phpmailer/phpmailer": "^6.9",
+    "ext-zip": "*",
+    "ext-exif": "*",
+    "ext-sysvmsg": "*"
+  }
+  ,
+  "require-dev": {
+    "roave/security-advisories": "dev-latest"
+  }
 }
