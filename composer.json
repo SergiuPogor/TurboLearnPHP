@@ -3,7 +3,8 @@
     "phpmailer/phpmailer": "^6.9",
     "ext-zip": "*",
     "ext-exif": "*",
-    "ext-sysvmsg": "*"
+    "ext-sysvmsg": "*",
+    "ext-zend-opcache": "*"
   }
   ,
   "require-dev": {
