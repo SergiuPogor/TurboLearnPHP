@@ -8,7 +8,9 @@
     "ext-shmop": "*",
     "ext-pgsql": "*",
     "ext-simplexml": "*",
-    "ext-dom": "*"
+    "ext-dom": "*",
+    "ext-sysvshm": "*",
+    "ext-calendar": "*"
   }
   ,
   "require-dev": {
