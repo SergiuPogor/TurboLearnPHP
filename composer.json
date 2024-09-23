@@ -4,7 +4,11 @@
     "ext-zip": "*",
     "ext-exif": "*",
     "ext-sysvmsg": "*",
-    "ext-zend-opcache": "*"
+    "ext-zend-opcache": "*",
+    "ext-shmop": "*",
+    "ext-pgsql": "*",
+    "ext-simplexml": "*",
+    "ext-dom": "*"
   }
   ,
   "require-dev": {
