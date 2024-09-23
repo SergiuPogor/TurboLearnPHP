@@ -10,7 +10,10 @@
     "ext-simplexml": "*",
     "ext-dom": "*",
     "ext-sysvshm": "*",
-    "ext-calendar": "*"
+    "ext-calendar": "*",
+    "ext-posix": "*",
+    "ext-iconv": "*",
+    "ext-libxml": "*"
   }
   ,
   "require-dev": {
