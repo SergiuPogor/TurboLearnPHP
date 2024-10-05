@@ -13,7 +13,8 @@
     "ext-calendar": "*",
     "ext-posix": "*",
     "ext-iconv": "*",
-    "ext-libxml": "*"
+    "ext-libxml": "*",
+    "ext-openssl": "*"
   }
   ,
   "require-dev": {
