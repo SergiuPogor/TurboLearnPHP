@@ -15,7 +15,9 @@
     "ext-iconv": "*",
     "ext-libxml": "*",
     "ext-openssl": "*",
-    "ext-readline": "*"
+    "ext-readline": "*",
+    "ext-sockets": "*",
+    "ext-mbstring": "*"
   }
   ,
   "require-dev": {
