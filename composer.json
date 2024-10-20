@@ -14,7 +14,8 @@
     "ext-posix": "*",
     "ext-iconv": "*",
     "ext-libxml": "*",
-    "ext-openssl": "*"
+    "ext-openssl": "*",
+    "ext-readline": "*"
   }
   ,
   "require-dev": {
