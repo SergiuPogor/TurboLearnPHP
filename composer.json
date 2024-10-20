@@ -17,7 +17,8 @@
     "ext-openssl": "*",
     "ext-readline": "*",
     "ext-sockets": "*",
-    "ext-mbstring": "*"
+    "ext-mbstring": "*",
+    "ext-fileinfo": "*"
   }
   ,
   "require-dev": {
